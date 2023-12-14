@@ -12,5 +12,5 @@ Additionally, you can access our "FAR-Chat" on HuggingFace Spaces [here](https:/
 *   Steve Kerr, [s.kerr@students.hertie-school.org](mailto:s.kerr@students.hertie-school.org)
 *   Amin Oueslati, [a.oueslati@students.hertie-school.org](mailto:a.oueslati@students.hertie-school.org)
 
-<a href="https://colab.research.google.com/github/kaifoerster/dl-tutorial/blob/main/Tutorial_RAG_C.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/smkerr/tutorial-rag-c/blob/main/Tutorial_RAG_C.ipynb" target="_parent">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="200px"/></a>
